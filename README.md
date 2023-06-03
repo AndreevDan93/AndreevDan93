@@ -8,7 +8,7 @@
 - 📫 Моё резюме: [Моё резюме](https://drive.google.com/file/d/1Wl2iNLJohDEBz961w8nUEp-X-fWPqh8y/view?usp=drive_link), [мое резюме на hh](https://ekaterinburg.hh.ru/resume/fb25906bff03eaa95b0039ed1f33476f577835)
 - 📝 Моё портфолио [andreevdan93](https://drive.google.com/drive/folders/10L1I-Hrhh8qmYxZymplXfWo5qSyKtaRN?usp=sharing)
 - 🌱 Мой уровень английского B1.
-- 📌 5 место в качестве Java backend и "Кодим лапками inc." на хакатоне [Sovcombank Team Challenge 2023](https://scbteamchallenge.sk.ru/)
+- 📌 5 место в качестве Java backend и капитана команды "Кодим лапками inc." на хакатоне [Sovcombank Team Challenge 2023](https://scbteamchallenge.sk.ru/)
 
 ### Socials
 [![Telegram](https://img.shields.io/badge/Telegram:@AndreevDan93-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AndreevDan93)
