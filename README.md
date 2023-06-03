@@ -2,8 +2,8 @@
 ========================
 
 ### Socials
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:andreevdan93@gmail.com) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/AndreevDan93) 
+[![Telegram](https://img.shields.io/badge/Telegram:@AndreevDan93-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AndreevDan93)
+[![Mail](https://img.shields.io/badge/mail:andreevdan93@gmail.com-%23316192?style=for-the-badge&logo=mail&logoColor=white)](mailto:andreevdan93@gmail.com)
 
 ### Skills
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
