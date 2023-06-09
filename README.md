@@ -51,12 +51,13 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=AndreevDan93&theme=dark&background=000000" alt="webDev's Github stats" />
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=AndreevDan93&theme=gotham" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndreevDan93&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndreevDan93&layout=compact&theme=gotham" />
     </td>
   </tr>
 </table>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AndreevDan93&show_icons=true&theme=gotham" alt="AndreevDan93" />
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AndreevDan93)
