@@ -5,7 +5,7 @@
 
 - 🏠 Живу в г. Пермь. Готов к переезду.
 - 🎓 Закончил профессию Java-разработчик на Hexlet, мой профиль: [https://ru.hexlet.io/u/andreevdan93](https://ru.hexlet.io/u/andreevdan93)
-- 📫 Моё резюме: [Моё резюме](https://drive.google.com/file/d/1Wl2iNLJohDEBz961w8nUEp-X-fWPqh8y/view?usp=drive_link), [мое резюме на hh](https://ekaterinburg.hh.ru/resume/fb25906bff03eaa95b0039ed1f33476f577835)
+- 📫 Моё резюме: [Моё резюме](https://drive.google.com/file/d/1jKKa_6c5yYr38e51nV9shUkky_xTc1Cq/view?usp=drive_link), [мое резюме на hh](https://ekaterinburg.hh.ru/resume/fb25906bff03eaa95b0039ed1f33476f577835)
 - 📝 Моё портфолио [andreevdan93](https://drive.google.com/drive/folders/10L1I-Hrhh8qmYxZymplXfWo5qSyKtaRN?usp=sharing)
 - 🌱 Мой уровень английского B1.
 - 📌 5 место в качестве Java backend и капитана команды "Кодим лапками inc." на хакатоне [Sovcombank Team Challenge 2023](https://scbteamchallenge.sk.ru/)
